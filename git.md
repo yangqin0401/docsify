@@ -35,7 +35,7 @@ https://www.cnblogs.com/wangiqngpei557/p/5989292.html
 
 
 ##### git 将本地文件推送到Github远程仓库<br/>
-1. 先在github上创建一个项目：例如 vue-demo<br/>
+1. 先在github上创建一个项目：例如 vue-demo<br/> 
 2. 在本地vue-demo 项目中使用 git init 把其变成git可以管理的仓库<br/>
 `git init`
 3. 若要忽略本地的文件或文件夹不被提交到github ，则需要在项目根目录下创建    .gitignore 文件<br/>
