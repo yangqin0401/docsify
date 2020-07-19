@@ -1,8 +1,7 @@
 ## docker的安装
  
-1.1 homebrew的cask应支持Docker for Mac,所以可以直接安装 `brew cask install docker`<br/>
+1.1 `homebrew`的`cask`应支持`Docker for Mac`,所以可以直接安装 `brew cask install docker`<br/>
 1.2 也可以直接到官网下载，https://download.docker.com/mac/stable/Docker.dmg
-反正都不快
 
 ## docker的使用
  
